@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth:wght@700&family=Josefin+Sans&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,700;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,800;1,900&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+@import 'animate.css';
+body{
+    font-family: 'Tajawal', sans-serif;
+    direction: rtl;
+    padding: 20px;
+    background-image: linear-gradient(45deg,#B7C4CF,#EEE3CB);
+    color: aliceblue;
+    height: 100vh;
+}
+h1{
+    color: #967E76;
+    
+}
+h3{
+   color: #967E76;
+    padding: 10px;
+   
+}
+.state{
+    background-color:#967E76;
+    padding: 10px;
+    justify-content: center;
+    
+}
+.card{
+    background-color:#967E76;
+    align-items: center;
+    text-align: center;
+   border-radius: 10%;
+   border: none;
+  
+
+}
+.card-header{
+    margin: 0px;
+}
+.card-body h5{
+    font-size: 30px;
+
+}
+hr{
+    color: #967E76;
+}
+
+
